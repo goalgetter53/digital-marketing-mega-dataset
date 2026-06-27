@@ -1,0 +1,41 @@
+Source: Wikipedia
+Title: Omnichannel
+URL: https://en.wikipedia.org/wiki/Omnichannel
+
+Omnichannel is a neologism describing a business strategy. According to Frost & Sullivan, omnichannel is defined as "seamless and effortless, high-quality customer experiences that occur within and between contact channels".
+
+
+== History ==
+"Omnis" is Latin for "every/all" and here suggests the integration of all physical channels (offline) and digital channels (online) to offer a unified customer experience.
+The effort to unify channels has a long history across all market sectors. Efforts like single-source publishing and responsive web design, however, were usually focused on internal efficiencies, formatting consistency, and simple de-duplication across channels. As the number of channels proliferated, the potential for a disjointed experience when switching or working with multiple channels increased. Channels like mobile devices, the mobile web, mobile apps, contextual help, augmented reality, virtual reality, and chatbots are used in addition to traditional physical and human interaction channels. This creates a complex matrix of possible ways an individual can engage an organization and its offerings or complete a task.
+Retail, until the early 1990s, was either a physical brick and mortar store or catalog sales where an order was placed by mail or via telephone. Sale by mail order dates back to when British entrepreneur Pryce Pryce-Jones set up the first modern mail order in 1861, selling Welsh flannel. Catalog sales for an assortment of general goods started in the late 1800s when Sears & Roebuck issued its first catalog in 1896. In the early 1900s, L.L. Bean started its catalog business in the United States.
+AOL, CompuServe and Prodigy experimented with selling through their proprietary online services in the early 1990s. These companies started sales channel expansion, while general merchants had evolved to department stores and Big-box store electronic ordering. In August 1994, NetMarket processed the first Internet sale where the credit card was encrypted. Shortly thereafter, Amazon.com was founded and the eCommerce sales channel was established. Mobile commerce  arrived in 1997, and multichannel retailing really took off.
+Omnichannel's origins date back to Best Buy's use of customer centricity to compete with Walmart's electronics department in 2003. The company created an approach that centered around the customer both in-store and online, while providing post-sales support. Omnichannel was coined as a form of "assembled commerce" and spread into the healthcare and financial services industries.
+
+
+=== Finance ===
+Omnichannel banking was developed in response to the popularity of digital banking transactions through ATMs, the web, and mobile applications. The most popular parts of omnichannel banking include 'zero drop rate' channel integration, individualizing channels for customers and marketing other channel options. Banks receive in-depth research about customers to build relationships and increase profitability.
+
+
+=== Government ===
+In 2009, the omnichannel platform started to be used in governments through Twitter interaction. Governments are developing web and mobile-enabled interfaces to improve and personalize the citizen experience. The United States government digital strategy includes information and customer-centric shared platforms that provide security and privacy. Omnichannel is used to communicate with citizens through the platform of their choice at their convenience and use feedback to analyze the citizen experience to better serve.
+
+
+=== Healthcare ===
+Due to fragmentation between health providers, hospitals, pharmaceutical companies and patients, omnichannel is developing to improve the customer experience in the healthcare industry. Omnichannel healthcare focuses on integrating data, technology, content and communication, while coordinating patient's results through digital channels. In September 2015, the University of Pittsburgh Medical Center received media attention for its customer service technology, which was integrated in 2009. The UPMC Health Plan uses an omnichannel system to improve customer engagement and contact resolution.
+
+
+=== Retail ===
+
+Omnichannel retail strategies are an expansion of what previously was known as multichannel retailing. The emergence of digital technologies, social media and mobile devices has led to significant changes in the retail environment and provided opportunities for retailers to redesign their marketing and product strategies. One of the challenges that retailers are facing as a result of increased channels, is to provide a personalised experience for customers. Put differently, in retailing omnichannel marketing has come to be understood as "hyperpersonalization". Another challenge is to track users' behaviors both online and in the brick and mortar stores, an option that is being made available by using AI platforms. In omnichannel retailing, one main backend handles all the customer data whether on the Web, mobile or a brick and mortar store.
+
+Customers tend to be looking for information in the physical store and at the same time they are getting additional information from their mobile devices about offers and possibly better prices. Omnichannel allows organizations to allocate inventory availability and visibility across locations vs. each channel holding specific units. A number of features, like size charts, easy return policy and same-day delivery, have boosted ecommerce and promoted omnichannel shopping.
+An omnichannel retailer has traditional methods of mass advertising integrated with emerging interactive channels. Websites, email offers, social media messaging and physical stores all show the same messages, offers, and products.  The omnichannel concept not only extends the range of channels, but also incorporates the needs, communications and interactions between customers, brands and retailers.
+
+
+== See also ==
+Multichannel marketing
+Omnichannel order fulfillment
+
+
+== References ==

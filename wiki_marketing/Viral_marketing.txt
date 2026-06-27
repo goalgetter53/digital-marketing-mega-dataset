@@ -1,0 +1,179 @@
+Source: Wikipedia
+Title: Viral marketing
+URL: https://en.wikipedia.org/wiki/Viral_marketing
+
+Viral marketing is a business strategy that uses existing social networks to promote a product or service on social media platforms. Its name refers to how consumers spread information about a product with other people, much in the same way that a virus spreads from one person to another. It can be delivered by word of mouth, or enhanced by the network effects of the Internet and mobile networks.
+The concept is often misused or misunderstood, as people apply it to any successful enough story without taking into account the word "viral".
+Viral advertising is personal and, while coming from an identified sponsor, it does not mean businesses pay for its distribution. Most of the well-known viral ads circulating online are ads paid by a sponsor company, launched either on their own platform (company web page or social media profile) or on social media websites such as YouTube. Consumers receive the page link from a social media network or copy the entire ad from a website and pass it along through e-mail or posting it on a blog, web page or social media profile. Viral marketing may take the form of video clips, advergames, ebooks, brandable software, images, text messages, email messages, or web pages. The most commonly utilized transmission vehicles for viral messages include pass-along based, incentive based, trendy based, and undercover based. However, the creative nature of viral marketing enables an "endless amount of potential forms and vehicles the messages can utilize for transmission", including mobile devices.
+The ultimate goal of marketers interested in creating successful viral marketing programs is to create viral messages that appeal to individuals with high social networking potential (SNP) and that have a high probability of being presented and spread by these individuals and their competitors in their communications with others in a short period.
+The term "viral marketing" has also been used pejoratively to refer to stealth marketing campaigns—marketing strategies that advertise a product to people without them knowing they are being marketed to.
+
+
+== History ==
+The emergence of "viral marketing", as an approach to advertisement, has been tied to the popularization of the notion that ideas spread like viruses. The field that developed around this notion, memetics, peaked in popularity in the 1990s. As this then began to influence marketing gurus, it took on a life of its own in that new context.
+The brief career of Australian pop singer Marcus Montana is largely remembered as an early example of viral marketing. In early 1989, thousands of posters declaring "Marcus is Coming" were placed around Sydney, generating discussion and interest within the media and the community about the meaning of the mysterious advertisements. The campaign successfully made Montana's musical debut a talking point, but his subsequent music career was a failure.
+The term is found in PC User magazine in 1989 with a somewhat differing meaning. It was later used by Jeffrey Rayport in the 1996 Fast Company article "The Virus of Marketing", and Tim Draper and Steve Jurvetson of the venture capital firm Draper Fisher Jurvetson in 1997 to describe Hotmail's practice of appending advertising to outgoing mail from their users.
+Doug Rushkoff, a media critic, wrote about viral marketing on the Internet in 1996.
+Bob Gerstley wrote about algorithms designed to identify people with high "social networking potential." Gerstley employed SNP algorithms in quantitative marketing research. In 2004, the concept of the alpha user was coined to indicate that it had now become possible to identify the focal members of any viral campaign, the "hubs" who were most influential. Alpha users could be targeted for advertising purposes most accurately in mobile phone networks, due to their personal nature.
+In early 2013, the first ever Viral Summit was held in Las Vegas.
+
+
+== Factors ==
+Marketer Jonah Berger defines six key factors that drive virality, organized in an acronym called STEPPS:
+
+Social currency – the better something makes people look, the more likely they will be to share it
+Triggers – things that are "top of mind" are more likely to be "tip of the tongue"
+Emotion – when people care, they share
+Public – the easier something is to see, the more likely people are to imitate it
+Practical value – people share useful information to help others
+Stories – like a Trojan Horse, stories carry messages and ideas along for the ride.
+Another important factor that drives virality is the propagativity of the content, referring to the ease with which consumers can redistribute it.
+
+
+== Psychology ==
+To form deeper connections with viewers and increase the chances of virality, many marketers use psychological principles. They argue that this approach is scientific and can foster an environment where the odds of gaining traction are much higher.
+People find psychological safety and can develop a sense of trust when more people interact with online content. For this reason, marketers work to develop media that resonates with viewers on a deeper, emotional level as this approach frequently results in higher engagement. This level of interaction serves as a sign of approval, reducing the personal risk that is subconsciously linked to associating oneself with a company or brand’s content.
+Professor Jonah Berger at the University of Pennsylvania's Wharton School of Business affirms that marketing campaigns that trigger psychological responses linked to strong emotions tend to perform better. In particular, Berger found that positive emotions like happiness, joy, and excitement have more successful share rates than their negative counterparts. This outcome results from the human instinct to respond more positively to content with activating emotions, increasing the desire to share content, which contributes to its virality.
+Viral marketing utilizes the primitive feeling of frisson to increase their view and share counts. This feeling of excitement is considered powerful because of its ability to cause a physical response. From increased heart rates to full body chills, Professor Brent Coker at the University of Melbourne describes that this approach to marketing triggers a primitive response that immerses the viewer in the content on a deeper level.  
+Researchers Juliana Fernandes from the University of Florida and Sigal Segev from the Florida International University also found that people are more inclined to share emotional campaigns over those that are heavily informational. They claim that consumers do not often care to learn about a product’s actual features and benefits. Instead, people prefer to be immersed in experience-based content that creates an emotional impact. Companies and brands can benefit from treating their content in this manner and go viral more frequently than those who do not.
+Social proof is another psychological phenomenon that impacts viral content. Experts in this field argue that it is a natural instinct to want to behave similarly to others because it results in positive validation. This phenomenon explains the human need to conform, so marketers focus on creating engaging content that encourages interactions and causes a snowball effect. This subconsciously influences people to like, comment, and share if they already see others doing the same.
+Social proof goes further by providing people with a form of social currency. When individuals interact with and share content, they become associated with the topics at hand. People naturally tend to perceive one another, and this pattern carries over to the digital world. As a result, many people tend to be vigilant about the viral marketing they engage with, since they want to be perceived positively. Companies and brands have the opportunity to develop social currency themselves by aligning with their target audiences and creating marketing campaigns that fit their interests or match their values. 
+
+
+== Methods and metrics ==
+
+According to marketing professors Andreas Kaplan and Michael Haenlein, to make viral marketing work, three basic criteria must be met, i.e., giving the right message to the right messengers in the right environment:
+
+Messenger: Three specific types of messengers are required to ensure the transformation of an ordinary message into a viral one: market mavens, social hubs, and salespeople. Market mavens are individuals who are continuously 'on the pulse' of things (information specialists); they are usually among the first to get exposed to the message and who transmit it to their immediate social network. Social hubs are people with an exceptionally large number of social connections; they often know hundreds of different people and have the ability to serve as connectors or bridges between different subcultures. Salespeople might be needed who receive the message from the market maven, amplify it by making it more relevant and persuasive, and then transmit it to the social hub for further distribution. Market mavens may not be particularly convincing in transmitting the information.
+Message: Only messages that are both memorable and sufficiently interesting to be passed on to others have the potential to spur a viral marketing phenomenon. Making a message more memorable and interesting or simply more infectious, is often not a matter of major changes but minor adjustments. It should be unique and engaging with a main idea that motivates the recipient to share it widely with friends – a "must-see" element.
+Environment: The environment is crucial in the rise of successful viral marketing – small changes in the environment lead to huge results, and people are much more sensitive to environment. The timing and context of the campaign launch must be right.
+Whereas Kaplan, Haenlein and others reduce the role of marketers to crafting the initial viral message and seeding it, futurist and sales and marketing analyst Marc Feldman carves a different role for marketers which pushes the 'art' of viral marketing much closer to 'science'.
+
+
+=== Metrics ===
+To clarify and organize the information related to potential measures of viral campaigns, the key measurement possibilities should be considered in relation to the objectives formulated for the viral campaign. In this sense, some of the key cognitive outcomes of viral marketing activities can include measures such as the number of views, clicks, and hits for specific content, as well as the number of shares in social media, such as likes on Facebook or retweets on Twitter, which demonstrate that consumers processed the information received through the marketing message. Measures such as the number of reviews for a product or the number of members for a campaign web page quantify the number of individuals who have acknowledged the information provided by marketers. Besides statistics that are related to online traffic, surveys can assess the degree of product or brand knowledge, though this type of measurement is more complicated and requires more resources.
+Related to consumers' attitudes toward a brand or even toward the marketing communication, different online and social media statistics, including the number of likes and shares within a social network, can be used. The number of reviews for a certain brand or product and the quality assessed by users are indicators of attitudes. Classical measures of consumer attitude toward the brand can be gathered through surveys of consumers.
+Behavioral measures are very important because changes in consumers' behavior and buying decisions are what marketers hope to see through viral campaigns. There are numerous indicators that can be used in this context as a function of marketers' objectives. Some of them include the most known online and social media statistics such as number and quality of shares, views, product reviews, and comments. Consumers' brand engagement can be measured through the K-factor, the number of followers, friends, registered users, and time spent on the website. Indicators that are more bottom-line oriented focus on consumers' actions after acknowledging the marketing content, including the number of requests for information, samples, or test-drives. Nevertheless, responses to actual call-to-action messages are important, including the conversion rate.
+Consumers' behavior is expected to lead to contributions to the bottom line of the company, meaning increase in sales, both in quantity and financial amount. However, when quantifying changes in sales, managers need to consider other factors that could potentially affect sales besides the viral marketing activities. Besides positive effects on sales, the use of viral marketing is expected to bring significant reductions in marketing costs and expenses.
+
+
+=== Methods ===
+Viral target marketing is based on three important principles:
+
+Social profile gathering
+Proximity market analysis
+Real-time key word density analysis
+It is generally agreed that a campaign must typically follow a certain set of guidelines in order to potentially be successful:
+
+It must be appealing to most of the audience.
+It must be worth sharing with friends and family.
+A large platform must be used, e.g. YouTube, Facebook, Super Bowl.
+An initial boost to gain attention is used, e.g. seeding, buying views, or sharing to Facebook fans.
+The content is of good quality.
+Demographics - It must be correlated with the Region & Society.
+
+
+=== Drivers of success ===
+After Wilert Puriwat and Suchart Tripopsakul read over countless academic journals on viral marketing, they proposed what they called the "7I's of effective word-of-mouth marketing campaigns." These seven I's can be used to highlight where the success of a viral marketing campaign comes from. While what Puriwat and Tripopsakul publish outlines what makes an effective campaign, there is also forewarnings that negative word-of-mouth messages about a brand or product have more power over a consumers purchasing decision. With that being said, the 7I's are as follows:
+
+Invisibility: The more distant an advertisement feels from being an advertisement, the more likely it is that the population will share the message with the people they are connected to. Puriwat and Tripopsakul suggest in their paper that marketers should be "balancing the branding element with the quality of content" to create an effect campaign.
+Identity: Identity has to do with the marketing's ability to positively promote the sharers personal traits that they wish to exemplify. To get the consumers themselves to share your marketing campaign it must match the aspects that they are wishing to emit to the people they are sharing with, especially over social media.
+Innovation: Marketing campaigns that venture off from what has been done before raises the likelihood that word will spread. Deviating from the norm through means such as surprising the audience or using humor can create the innovation needed to engage the audience and distance themselves from being just another advert.
+Insight: What insight means in this context is that the marketing team should be looking at ways that their campaign can have an effect on the consumer on an emotional level. Instead of just sharing a marketing campaign that tells the viewer how great the product or service is, the campaign should elicit a positive feeling in the viewer that confirms how they feel. This leads to an increased likelihood that the advertisement would be share.
+Instantaneity: The instantaneity of a given campaign has to do with how well the initial deliverable can be intertwined with recent trends and current popular topics. This all-encompassing leg of the 7I's covers topics such as timeliness on when the campaign is initially launched, how trendy it is to share the viral advert with the people around you, and also includes the use of the correct celebrity for the moment. Using celebrities in ads is not a new idea, however the right celebrity to elicit the correct feeling in the viewer goes a long way in increasing success.
+Integration: The integration of the viral marketing scheme is how well does the viral moment feed consumers into other marketing avenues for the company. While successfully creating a viral marketing campaign benefits the company by increasing the total amount impressions based on the financial investment, you still need the consumers to further interact with your brand outside of sharing. This can be done through the channeling of consumers to other marketing avenues such as websites and personal social media pages that can increase brand familiarity.
+Interactivity: The interactivity of a marketing campaign draws its importance based on the fact that a normal marketing campaign pushes its consumers to just buy or agree with what is being promoted. This differs from viral marketing since you know need to close the gap between the brand and the viewer to the point that there is public interaction between the two. Often times this public interaction is negative in nature without viral marketing since forewarnings on products are often shared between consumers. This is why having an interactive avenue through viral marketing can correct the balance between negative and positive discussion of a brand through consumer to consumer networks.
+Using these seven described aspects of viral marketing, the two ran a statistical test utilizing a survey of 286 people on their thoughts of recent viral marketing efforts. The questions in the survey gauged whether each point from the 7I's were met in the campaign using Likert scale questions and ended with questions on brand preference and brand recognition. While many conclusions were drawn from the statistical analysis, the prominent ones to be shared were based around age groups and interaction results. Wilert and Tripopsakul found that viral marketing is a tool that has shown to be more beneficial in targeting a younger demographic than the older audience. They also found that consumers who partook in any interaction with a brands viral marketing campaign more often than not had a positive increase in that brands perception.
+
+
+== Social networking ==
+The growth of social networks significantly contributed to the effectiveness of viral marketing.  As of 2009, two-thirds of the world's Internet population visits a social networking service or blog site at least every week. As of October 2012, Facebook reported having over 1 billion active users. In 2009, time spent visiting social media sites began to exceed time spent emailing. A 2010 study found that 52% of people who view news online forward it on through social networks, email, or posts.
+
+
+=== Social media ===
+The introduction of social media has caused a change in how viral marketing is used and the speed at which information is spread and users interact. This has prompted many companies to use social media as a way to market themselves and their products, with Elsamari Botha and Mignon Reyneke stating that viral messages are "playing an increasingly important role in influencing and shifting public opinion on corporate reputations, brands, and products as well as political parties and public personalities to name but a few."
+
+
+== Influencers ==
+In business, it is indicated that people prefer interaction with humans to a logo. Influencers build up a relationship between a brand and their customers. Companies would be left behind if they neglected the trend of influencers in viral marketing, as over 60% of global brands have used influencers in marketing in 2016.
+Influencers correlate to the level of customers' involvement in companies' marketing. First, unintentional influences, because of brand satisfaction and low involvement, their action is just to deliver a company's message to a potential user. Secondly, users will become salesmen or promoters for a particular company with incentives.
+Marketers and agencies commonly consider celebrities as a good influencer with endorsement work. This conception is similar to celebrity marketing. Based on a survey, 69% of company marketing department and 74% of agencies are currently working with celebrities in the UK. The celebrity types come along with their working environment. Traditional celebrities are considered singers, dancers, actors or models. These types of public characters are continuing to be the most commonly used by company marketers. The survey found that 4 in 10 company having worked with these traditional celebrities in the prior year. However, people these years are spending more time on social media rather than traditional media such as TV. The researchers also claim that customers are not firmly believed celebrities are effectively influential.
+Social media stars such as YouTuber Zoella or Instagrammer Aimee Song are followed by millions of people online.
+This trend captured by marketers who are used to explore new potential customers. Agencies are placing social media influencers alongside musicians, actors, and other traditional celebrity types they work with. More than 28% of company marketers having worked with one social media influencer in the previous year.
+
+
+=== Benefits ===
+
+
+==== For companies ====
+Using influencers in viral marketing provides companies several benefits. It enables companies to spend little time and budget on their marketing communication and brand awareness promotion. For example, Alberto Zanot, in the 2006 FIFA Football World Cup, shared Zinedine Zidane's headbutt against Italy and engaged more than 1.5 million viewers in less than the very first hour. Secondly, it enhances the credibility of messages. These trust-based relationships grab the audience's attention, create customers' demand, increase sales and loyalty, or simply drive customers' attitude and behavior. In the case of Coke, Millennials changed their mind about the product, from parents' drink to the beverage for teens. It built up Millennials' social needs by 'sharing a Coke' with their friends. This created a deep connection with Gen Y, dramatically increased sales (+11% compared with last year) and market share (+1.6%).
+
+
+==== For influencers ====
+No doubt that harnessing influencers would be a lucrative business for both companies and influencers. The concept of 'influencer' is no longer just an 'expert' but also anyone who delivers and influence on the credibility of a message (e.g. blogger) In 2014, BritMums, network sharing family's daily life, had 6,000 bloggers and 11,300 views per month on average and became endorsers for some particular brand such as Coca-Cola, Morrison. Another case, Aimee Song who had over 3.6m followers on the Instagram page and became Laura Mercier's social media influencers, gaining $500,000 monthly.
+
+
+==== For consumers ====
+Decision-making process seems to be hard for customers these days. Millers (1956) argued that people suffered from short-term memory. This links to difficulties in customers' decision-making process and Paradox of Choice, as they face various adverts and newspapers daily. 
+Influencers serve as a credible source for customers' decision-making process. Neilsen reported that 80% of consumers appreciated a recommendation of their acquaintances, as they have reasons to trust in their friends delivering the messages without benefits and helping them reduce perceived risks behind choices.
+
+
+=== Risks ===
+
+
+==== For the company ====
+The main risk coming from the company is for it to target the wrong influencer or segment. Once the content is online, the sender will not be able to control it anymore. It is therefore vital to aim at a particular segment when releasing the message. This is what happened to the company BlendTech which released videos showing the blender could blend anything, and encouraged users to share videos. This mainly caught the attention of teenage boys who thought it funny to blend and destroy anything they could; even though the videos went viral, they did not target potential buyers of the product. This is considered to be one of the major factors that affects the success of the online promotion. It is critical and inevitable for the organisations to target the right audience. Another risk with internet is that a company's video could end up going viral on the other side of the planet where their products are not even for sale.
+
+
+==== From the influencers ====
+According to a paper by Duncan Watts and colleagues entitled: "Everyone's an influencer", the most common risk in viral marketing is that of the influencer not passing on the message, which can lead to the failure of the viral marketing campaign.
+
+
+== Notable examples ==
+
+
+=== Hotmail Tagline ===
+Between 1996 and 1997, Hotmail was one of the first internet businesses to become extremely successful utilizing viral marketing techniques by inserting the tagline "Get your free e-mail at Hotmail" at the bottom of every e-mail sent out by its users. Hotmail was able to sign up 12 million users in 18 months. At the time, this was historically the fastest growth of any user based media company. By the time Hotmail reached 66 million users, the company was establishing 270,000 new accounts each day.
+
+
+=== Dollar Shave Club YouTube Video ===
+On March 6, 2012, Dollar Shave Club launched their online video campaign. In the first 48 hours of their video debuting on YouTube they had over 12,000 people signing up for the service. The video cost just $4500 to make and as of November 2015 has had more than 21 million views. The video was considered one of the best viral marketing campaigns of 2012 and won "Best Out-of-Nowhere Video Campaign" at the 2012 AdAge Viral Video Awards.
+
+
+=== Oreo Power Outage ===
+During the 2013 Super Bowl, the Mercedes-Benz stadium suffered from a massive power outage. Oreo took advantage of the power outage and created a viral marketing campaign, incorporating a black and white image of an Oreo. The image included a text that stated, "You can still dunk in the dark." A caption was also included that stated "No Power? No problem." Due to Oreo’s quick thinking and clever marketing created traction and caused thousands of tweets and retweets. The marketing tactic that Oreo used to bring traction to the Oreo Company is referred to as newsjacking, which companies use to bring more customers to their brand using clever marketing tactics.
+
+
+=== Spotify Wrapped ===
+Spotify Wrapped is a viral marketing campaign by Spotify released annually since 2016 between November 29 and December 6, allowing users to view a compilation of data about their activity on the platform over the preceding year, and inviting them to share a colorful pictorial representation of it on social media. Other brands started releasing similar features, like Apple with Apple Music Replay. In 2021, 120 million users accessed Spotify Wrapped.
+
+
+=== McDonald's Grimace Shake ===
+
+In June 2023, McDonald's inadvertently took advantage of viral marketing with the rollout of Grimace's Birthday Meal, and more specifically, the Grimace Shake. During its release, a popular trend emerged where people would take videos of themselves drinking the Grimace Shake and then would be found in disturbing positions with purple goo (assumed to be from the shake) splattered across them. McDonald's, while not responsible for the trend themselves, did eventually go on to recognize it in a Twitter post that read (as Grimace): "meee pretending i don't see the grimace shake trendd". While the Grimace's Birthday campaign was already a success for McDonald's, the trend boosted sales even higher and kept them high all the way until the end of the promotion on June 29.
+
+
+=== Ghostface Real Estate Listing ===
+In Autumn 2019, a real estate listing for a century-old home in Lansing, Michigan went viral when the listing agent (James Pyle) used the Ghostface character from the Scream movie in marketing photos that showcased the home on Realtor.com and Zillow. The listing went live on September 27, 2019, and quickly began trending on Facebook, garnering 300,000 views in 2 days, at which point a story on the unusual popularity of the listing appeared in a local newspaper. Pyle stated that wanted to do something fun and novel for the Halloween season but to keep the photos professional at the same time, and hired photographer Bradley Johnson to take several pictures of him dressed as Ghostface raking leaves in the backyard, preparing to carve a pumpkin in the kitchen, standing on the front and back porches, and peeking out behind curtains and doors. The following day, the story was picked up by several radio stations and major news networks.
+Pyle stated that a normal listing typically received under 150 views, and his goal was to get between 500 and 1,000 views of the home. However, the Zillow listing ended up receiving over 20,000 views by October 1, one million views by October 2 and exceeded 1.2 million views by October 3. It was estimated that the combined views of the listings on both sites (Zillow and Realtor.com) exceeded 5 million in 5 days. The listing received a cash offer within 4 days and the immense popularity resulted in the home becoming overbooked during the open house and subsequent viewings. Due to the success of the listing, Pyle was scheduled to appear on “Good Morning America” on October 2, 2019. He was quoted as saying that he didn't think he would ever be able to duplicate the success of the listing, but he planned to try some additional variations for future listings. The listing continued to be popular even after the house was off the market.
+
+
+== See also ==
+Advertising campaign
+Clickbait
+Content marketing
+Growth hacking
+Guerrilla marketing
+Internet marketing
+K-factor (marketing)
+Mainstream media
+Mobile marketing
+Reply marketing
+Social media marketing
+Social video marketing
+Spotify Wrapped
+Viral phenomenon
+Visual marketing
+
+
+== References ==

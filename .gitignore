@@ -1,0 +1,15 @@
+﻿node_modules/
+.cache/
+chrome_session_*/
+plugin-repos/
+__pycache__/
+*.pyc
+*.exe
+*.dll
+*.so
+.DS_Store
+Thumbs.db
+*.log
+package-lock.json
+youtube_transcripts/
+web_content/

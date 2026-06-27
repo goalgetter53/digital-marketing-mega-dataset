@@ -1,0 +1,39 @@
+Source: Wikipedia
+Title: Multichannel marketing
+URL: https://en.wikipedia.org/wiki/Multichannel_marketing
+
+Multichannel marketing is the blending of different distribution and promotional channels for the purpose of marketing. Distribution channels include a retail storefront, a website, or a mail-order catalogue.
+Multichannel marketing is about choice.  The objective of the companies doing the marketing is to make it easy for a consumer to buy from them in whatever way is most appropriate.
+To be effective, multichannel marketing needs to be supported by good supply chain management systems, so that the details and prices of goods on offer are consistent across the different channels.  It might also be supported by a detailed analysis of the return on investment from each different channel, measured in terms of customer response and conversion of sales.  The contribution each channel delivers to sales can be assessed via Marketing Mix Modeling or attribution modelling.  Some companies target certain channels at different demographic segments of the market or at different socio-economic groups of consumers.
+Multichannel marketing allows the retail merchant to reach its prospective or current customers through their preferred channel.
+
+
+== Coordination of online and offline channels ==
+Companies that sell branded products and services through local businesses market through both online and offline channels to local audiences. Online and offline multichannel marketing campaigns can either inform one another or be executed in isolation. A proportion of companies use their online marketing efforts to inform their offline advertising (i.e. they test keywords online to understand if they fit with customer intent before printing them in offline ads). Multichannel marketing also allows businesses to maintain consistent messaging across various customer touchpoints.
+
+
+== Comparison with traditional forms of marketing ==
+While multichannel marketing focuses primarily on  new media platforms in marketing, traditional approaches use old media such as print sources, telemarketing, direct mail and broadcasting stations such as radio and television. Multichannel marketing does not only use web 2.0 forms but also integrates media convergence models, targeting customer interaction through different platforms such as via text messaging, on a website, email, online video campaigns, GPS to track the location of a customer and their proximity to the product or service. Being able to reach out to customers directly is an important marketing strategy because it is convenient and enhances direct customer interaction. Multichannel marketing strategies are adaptable and can evolve as new channels and technologies emerge.
+
+
+== Benefits ==
+Some of the long term benefits of this style of marketing include:
+
+Better management of results and sales: Using many communicative platforms to reach the audience increases the chances of receiving feedback from a variety of customers on the overall performance. This feedback gives companies an idea of what the customer wants and what they can improve upon
+Higher revenues: The more diverse platforms used in trying to reach customers, the more the potential customers are likely to reach out to purchase goods and services. If the company advertises its brand only on the [internet], it will be very hard to capture the attention of potential customers who do not use the internet regularly and rely on other mediums such as the [television] for example.
+Better understanding of customers: By the response from customers, it is easier to understand what they expect from a product or service and how a brand can be improved. To satisfy the needs of a niche, it is necessary to identify the channels and platforms which work for a certain group.
+Increased brand visibility and reach: About 36% of shoppers search products on one channel but purchase the product through a different channel.
+Optimize media spend: Data retrieval and centralization enables companies to better target consumer segments and provide them with more effective marketing campaigns therefore optimizing media spend. ref url = https://digital.hec.ca/en/digital-and-omni-channel-marketing/
+
+
+== See also ==
+Distributed presence
+Multichannel retailing
+Marketing strategy
+
+
+== References ==
+
+
+== Further reading ==
+Klink, Sandra, (2021), Weimannmedia: "Multi-Channel – Schnittstellen Marktplatz Anbindung, zahlreiche Marktplätze automatisiert aussteuern", Germany, Blog Artikel
